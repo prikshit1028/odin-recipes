@@ -1,0 +1,57 @@
+h1{
+    background-color: aqua;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    color: red;
+
+}
+
+#firstid{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#secondid{
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+#thirdid{
+    font-family:'Courier New', Courier, monospace;
+}
+
+img{
+    height: auto;
+    width: auto;
+}
+
+#fourthid#fifthid#sixthid{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#fourthid{
+    background-color: green;
+    color:yellow;
+}
+#fifthid{
+    background-color: black;
+    color: yellow;
+
+}
+#sixthid{
+    background-color: peru;
+    color:green;
+}
+
+.firstclass{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.secondclass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:maroon;
+}
+.thirdclass{
+    font-family:cursive,sans-serif;
+    color:rgb(25, 80, 4);
+}
+
